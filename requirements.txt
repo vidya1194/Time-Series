@@ -1,0 +1,23 @@
+pandas
+numpy
+seaborn
+matplotlib
+statsmodels
+scikit-learn
+xgboost
+yfinance
+
+
+""" steps to populate the requirements.txt file
+1. If requirements.txt does not exist in your directory, follow the steps below:
+    a. Install pipreqs using:
+    pip install pipreqs
+
+    b. Navigate to the root directory of your project and run:
+    pipreqs . (#or specify the path to your project directory instead of period, This will scan your project directory for imports and generate a requirements.txt file listing only those packages.)
+    
+
+2. If requirements.txt exists, but is empty or you wish to overwrite, run:
+    a. pipreqs . --force
+
+"""

@@ -1,0 +1,47 @@
+2024-08-04 19:46:46,716:INFO:Data loaded
+2024-08-04 19:46:46,717:INFO:Data Preprocessed
+2024-08-04 19:46:46,938:INFO:Data Plotted
+2024-08-04 19:46:47,213:INFO:Decompose series Plotted
+2024-08-04 19:46:49,879:INFO:Plot ACF and PACF
+2024-08-04 19:46:49,886:INFO:ADF test
+2024-08-04 19:46:49,891:INFO:ADF Test p-value after differencing
+2024-08-04 19:46:50,427:INFO:Train ARIMA model
+2024-08-04 19:46:50,441:INFO:Forecast using ARIMA
+2024-08-04 19:46:50,664:INFO:Plot forecast
+2024-08-04 19:46:50,666:INFO:Evaluate ARIMA model
+2024-08-04 19:46:51,222:INFO:Prepare data for ML model
+2024-08-04 19:46:52,387:INFO:Train and evaluate XGBoost model
+2024-08-04 19:46:52,574:INFO:Plot XGBoost predictions
+2024-08-04 19:46:52,594:ERROR:Error loading data: 'Target'
+2024-08-04 19:47:07,978:INFO:Data loaded
+2024-08-04 19:47:07,979:INFO:Data Preprocessed
+2024-08-04 19:47:08,218:INFO:Data Plotted
+2024-08-04 19:47:08,532:INFO:Decompose series Plotted
+2024-08-04 19:47:10,976:INFO:Plot ACF and PACF
+2024-08-04 19:47:10,982:INFO:ADF test
+2024-08-04 19:47:10,987:INFO:ADF Test p-value after differencing
+2024-08-04 19:47:11,176:INFO:Train ARIMA model
+2024-08-04 19:47:11,190:INFO:Forecast using ARIMA
+2024-08-04 19:47:11,419:INFO:Plot forecast
+2024-08-04 19:47:11,420:INFO:Evaluate ARIMA model
+2024-08-04 19:47:12,014:INFO:Prepare data for ML model
+2024-08-04 19:47:13,110:INFO:Train and evaluate XGBoost model
+2024-08-04 19:47:13,285:INFO:Plot XGBoost predictions
+2024-08-04 19:47:13,308:INFO:Backtest XGBoost model
+2024-08-04 19:47:13,310:ERROR:Error loading data: 'Target'
+2024-08-04 19:53:59,809:INFO:Data loaded
+2024-08-04 19:53:59,811:INFO:Data Preprocessed
+2024-08-04 19:54:00,232:INFO:Data Plotted
+2024-08-04 19:54:00,663:INFO:Decompose series Plotted
+2024-08-04 19:54:02,506:INFO:Plot ACF and PACF
+2024-08-04 19:54:02,513:INFO:ADF test
+2024-08-04 19:54:02,518:INFO:ADF Test p-value after differencing
+2024-08-04 19:54:04,562:INFO:Train ARIMA model
+2024-08-04 19:54:04,582:INFO:Forecast using ARIMA
+2024-08-04 19:54:04,865:INFO:Plot forecast
+2024-08-04 19:54:04,866:INFO:Evaluate ARIMA model
+2024-08-04 19:54:05,540:INFO:Prepare data for ML model
+2024-08-04 19:54:06,894:INFO:Train and evaluate XGBoost model
+2024-08-04 19:54:07,129:INFO:Plot XGBoost predictions
+2024-08-04 19:54:07,161:INFO:Backtest XGBoost model
+2024-08-04 19:54:07,165:INFO:Backtest XGBoost model
